@@ -20,7 +20,7 @@ I wanted a fully portable SDR setup that I could use to find and listen to radio
 - SDR Software: [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)
 
 ## 📸 Images
-_Include pics if you have them!_
+![Project Setup](IMG_4852.heic)
 
 ## 📂 Extras
 Presentation slides are in the `presentation/` folder.
