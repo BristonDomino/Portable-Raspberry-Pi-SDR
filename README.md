@@ -20,10 +20,11 @@ I wanted a fully portable SDR setup that I could use to find and listen to radio
 - SDR Software: [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)
 
 ## 📸 Images
-![Project Setup](IMG_4852.heic)
+![Setup](https://github.com/BristonDomino/Portable-Raspberry-Pi-SDR/blob/main/independent%20Study%20Project%20Portable%20Raspberry%20Pi%20SDR/images/IMG_4852.jpg?raw=true)
 
 ## 📂 Extras
-Presentation slides are in the `presentation/` folder.
+📊 [View Project Presentation](https://github.com/BristonDomino/Portable-Raspberry-Pi-SDR/blob/main/independent%20Study%20Project%20Portable%20Raspberry%20Pi%20SDR/Presentation/My%20project%20presentation%20for%20intempet%20study.pptx)
+
 
 ---
 
